@@ -1,0 +1,9 @@
+Criar um container com uma app Flask
+
+(X) Os Debian like
+(X) Python precisa ter a versão 2.7+
+(X) Precisa ter o python-pip latest
+(X) Ter a pasta /app
+(X) Gunicorn precisa estar instalado
+(X) Ter o flask instalado
+Porta 8000 precisa estar rodando
