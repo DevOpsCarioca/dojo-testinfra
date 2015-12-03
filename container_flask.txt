@@ -6,4 +6,4 @@ Criar um container com uma app Flask
 (X) Ter a pasta /app
 (X) Gunicorn precisa estar instalado
 (X) Ter o flask instalado
-Porta 8000 precisa estar rodando
+(X) Porta 8000 precisa estar rodando
